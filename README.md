@@ -1,1 +1,1 @@
-# banempi-alati
+Desktop application used to record employee performance, based on which program calculates employee earnings and create various reports. It also helps in collecting and systematizing production data for more efficient business of the factory. Application is based on Java Swing API and uses Firebird database.
