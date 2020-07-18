@@ -139,7 +139,7 @@ public class ConnectionManager {
             } else {
                 server = "109.92.28.119";
             }
-            Properties prop = createProperties(server, "c:/Podaci/issup.GDB", "c:/Baze/ucinci.GDB");
+            Properties prop = createProperties(server, "c:/Baze/issup.GDB", "c:/Baze/ucinci.GDB");
             savePropToFile(prop, file);
         }
     }
