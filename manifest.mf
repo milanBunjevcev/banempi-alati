@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Ant-Version: Apache Ant 1.9.7
 Created-By: 1.8.0_181-b13 (Oracle Corporation)
 Bundle-Name: Alati
-Bundle-Version: 2.451
-Bundle-Date: 2020-07-13 16:43:53 CEST
+Bundle-Version: 2.457
+Bundle-Date: 2020-07-18 13:14:49 CEST
 Implementation-Title: Alati
-Implementation-Version: 2.451
+Implementation-Version: 2.457
 

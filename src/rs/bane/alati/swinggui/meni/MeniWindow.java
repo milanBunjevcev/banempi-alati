@@ -62,7 +62,9 @@ public class MeniWindow extends javax.swing.JFrame {
                 System.exit(0);
             }
         } catch (IOException ex) {
-            Logger.getLogger(MeniWindow.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println("\nGRESKA PRI PROVERI NOVE VERZIJE!!!");
+            System.out.println("Lokacija za azuriranje nije dostupna (dostupno samo u lakalnoj mrezi)");
+            //Logger.getLogger(MeniWindow.class.getName()).log(Level.SEVERE, null, ex);
         } catch (StringIndexOutOfBoundsException ex) {
             Logger.getLogger(MeniWindow.class.getName()).log(Level.SEVERE, null, ex);
             verL.setText("v");
